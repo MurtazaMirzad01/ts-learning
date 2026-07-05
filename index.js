@@ -1,0 +1,10 @@
+"use strict";
+let userName = 'Mirzad';
+console.log(userName);
+let age = 23;
+age = 24;
+console.log(age);
+let isEngineer = true;
+console.log(isEngineer);
+let firstName = 'Murtaza';
+console.log(firstName);
