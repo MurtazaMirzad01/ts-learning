@@ -10,3 +10,14 @@ console.log(isEngineer)
 
 let firstName = 'Murtaza';
 console.log(firstName);
+
+let id1 = Symbol();
+let id2 = Symbol();
+console.log(id1 === id2);
+
+let passid = null;
+console.log(passid)
+
+let phone; 
+phone = 2;
+console.log(typeof(phone))
